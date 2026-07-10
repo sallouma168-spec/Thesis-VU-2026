@@ -5,7 +5,7 @@ Code and data for the BSc Artificial Intelligence thesis:
 **"Judging the Judge: A Retrieval-Augmented Audit of Directional Hallucinations in LLM Political News QA"**
 Selma Ghedas (2756926) · Vrije Universiteit Amsterdam · Supervisor: Dr. Jieying Chen · Second reader: Giacomo Zamprogno
 
-This guide is written for the examiner and second assessor. It explains how to
+This guide is written for the supervisor and second assessor. It explains how to
 set up the environment, re-run the pipeline, and verify each result and figure
 reported in the thesis.
 
