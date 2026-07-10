@@ -1,0 +1,15 @@
+# Python dependencies for the "Judging the Judge" thesis pipeline
+# Install with:  pip install -r requirements.txt
+# Developed on Python 3.11.
+
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.3
+scipy>=1.10
+matplotlib>=3.7
+python-dotenv>=1.0
+
+# LLM provider SDKs
+openai>=1.0          # GPT-4o-mini answering, judging, logprobs; DeepInfra (OpenAI-compatible)
+groq>=0.9            # Llama 3.3 70B provider cross-check
+mistralai>=1.0       # excluded exploratory runs only (optional)

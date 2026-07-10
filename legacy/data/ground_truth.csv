@@ -1,0 +1,65 @@
+fact_id,country,party_name,party_abbr,fact_type,correct_value,unit,source
+NL001,Netherlands,Partij van de Arbeid,PvdA,vote_share,19.0,percent,wikipedia
+NL001S,Netherlands,Partij van de Arbeid,PvdA,seats,6,count,wikipedia
+NL001R,Netherlands,Partij van de Arbeid,PvdA,rank,1,ordinal,wikipedia
+NL001L,Netherlands,Partij van de Arbeid,PvdA,leader,Frans Timmermans,name,wikipedia
+NL001E,Netherlands,Partij van de Arbeid,PvdA,ep_group,S&D,category,wikipedia
+NL002,Netherlands,Volkspartij voor Vrijheid en Democratie,VVD,vote_share,14.6,percent,wikipedia
+NL002S,Netherlands,Volkspartij voor Vrijheid en Democratie,VVD,seats,4,count,wikipedia
+NL002R,Netherlands,Volkspartij voor Vrijheid en Democratie,VVD,rank,2,ordinal,wikipedia
+NL002L,Netherlands,Volkspartij voor Vrijheid en Democratie,VVD,leader,Malik Azmani,name,wikipedia
+NL002E,Netherlands,Volkspartij voor Vrijheid en Democratie,VVD,ep_group,Renew Europe,category,wikipedia
+NL003,Netherlands,Christen-Democratisch Appel,CDA,vote_share,12.2,percent,wikipedia
+NL003S,Netherlands,Christen-Democratisch Appel,CDA,seats,4,count,wikipedia
+NL003R,Netherlands,Christen-Democratisch Appel,CDA,rank,3,ordinal,wikipedia
+NL003L,Netherlands,Christen-Democratisch Appel,CDA,leader,Esther de Lange,name,wikipedia
+NL003E,Netherlands,Christen-Democratisch Appel,CDA,ep_group,EPP,category,wikipedia
+NL004,Netherlands,GroenLinks,GL,vote_share,10.9,percent,wikipedia
+NL004S,Netherlands,GroenLinks,GL,seats,3,count,wikipedia
+NL004R,Netherlands,GroenLinks,GL,rank,4,ordinal,wikipedia
+NL004L,Netherlands,GroenLinks,GL,leader,Bas Eickhout,name,wikipedia
+NL004E,Netherlands,GroenLinks,GL,ep_group,Greens/EFA,category,wikipedia
+NL005,Netherlands,Forum voor Democratie,FvD,vote_share,10.9,percent,wikipedia
+NL005S,Netherlands,Forum voor Democratie,FvD,seats,3,count,wikipedia
+NL005R,Netherlands,Forum voor Democratie,FvD,rank,5,ordinal,wikipedia
+NL005L,Netherlands,Forum voor Democratie,FvD,leader,Thierry Baudet,name,wikipedia
+NL005E,Netherlands,Forum voor Democratie,FvD,ep_group,Non-Inscrits,category,wikipedia
+NL006,Netherlands,Democraten 66,D66,vote_share,7.1,percent,wikipedia
+NL006S,Netherlands,Democraten 66,D66,seats,2,count,wikipedia
+NL006R,Netherlands,Democraten 66,D66,rank,6,ordinal,wikipedia
+NL006L,Netherlands,Democraten 66,D66,leader,Sophie in 't Veld,name,wikipedia
+NL006E,Netherlands,Democraten 66,D66,ep_group,Renew Europe,category,wikipedia
+NL_T,Netherlands,Netherlands,NL,turnout,41.93,percent,wikipedia
+NL_AGG,Netherlands,Netherlands,NL,top_ep_group_by_seats,EPP,category,wikipedia
+FR001,France,Rassemblement National,RN,vote_share,23.3,percent,wikipedia
+FR001S,France,Rassemblement National,RN,seats,23,count,wikipedia
+FR001R,France,Rassemblement National,RN,rank,1,ordinal,wikipedia
+FR001L,France,Rassemblement National,RN,leader,Jordan Bardella,name,wikipedia
+FR001E,France,Rassemblement National,RN,ep_group,ID,category,wikipedia
+FR002,France,La République En Marche,LREM,vote_share,22.4,percent,wikipedia
+FR002S,France,La République En Marche,LREM,seats,23,count,wikipedia
+FR002R,France,La République En Marche,LREM,rank,2,ordinal,wikipedia
+FR002L,France,La République En Marche,LREM,leader,Nathalie Loiseau,name,wikipedia
+FR002E,France,La République En Marche,LREM,ep_group,Renew Europe,category,wikipedia
+FR003,France,Europe Ecologie Les Verts,EELV,vote_share,13.5,percent,wikipedia
+FR003S,France,Europe Ecologie Les Verts,EELV,seats,13,count,wikipedia
+FR003R,France,Europe Ecologie Les Verts,EELV,rank,3,ordinal,wikipedia
+FR003L,France,Europe Ecologie Les Verts,EELV,leader,Yannick Jadot,name,wikipedia
+FR003E,France,Europe Ecologie Les Verts,EELV,ep_group,Greens/EFA,category,wikipedia
+FR004,France,The Republicans,LR,vote_share,8.5,percent,wikipedia
+FR004S,France,The Republicans,LR,seats,8,count,wikipedia
+FR004R,France,The Republicans,LR,rank,4,ordinal,wikipedia
+FR004L,France,The Republicans,LR,leader,Francois-Xavier Bellamy,name,wikipedia
+FR004E,France,The Republicans,LR,ep_group,EPP,category,wikipedia
+FR005,France,La France Insoumise,LFI,vote_share,6.3,percent,wikipedia
+FR005S,France,La France Insoumise,LFI,seats,6,count,wikipedia
+FR005R,France,La France Insoumise,LFI,rank,5,ordinal,wikipedia
+FR005L,France,La France Insoumise,LFI,leader,Manon Aubry,name,wikipedia
+FR005E,France,La France Insoumise,LFI,ep_group,GUE/NGL,category,wikipedia
+FR006,France,Parti Socialiste,PS,vote_share,6.2,percent,wikipedia
+FR006S,France,Parti Socialiste,PS,seats,6,count,wikipedia
+FR006R,France,Parti Socialiste,PS,rank,6,ordinal,wikipedia
+FR006L,France,Parti Socialiste,PS,leader,Raphael Glucksmann,name,wikipedia
+FR006E,France,Parti Socialiste,PS,ep_group,S&D,category,wikipedia
+FR_T,France,France,FR,turnout,50.12,percent,wikipedia
+FR_AGG,France,France,FR,top_ep_group_by_seats,Renew Europe,category,wikipedia
